@@ -1,1 +1,1 @@
-# week-4-homework1-tailwindcssLandingPage
+- Patika+ week-4 homework 1 designing a landing page
